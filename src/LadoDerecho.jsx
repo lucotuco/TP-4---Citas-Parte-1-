@@ -1,4 +1,4 @@
-function MN(props){
+function Listado(props){
     return(
         <div class="cita">
         <p>Mascota: <span>{props.name}</span></p>
@@ -9,4 +9,4 @@ function MN(props){
       </div>
     )
 }
-export default MN
+export default Listado
